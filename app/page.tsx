@@ -13,8 +13,8 @@ export default function HomePage() {
           reflects your personality and energy. 🌿
         </p>
         <p className="text-sm text-gray-500">
-          In celebration of International Yoga Day on June 21st, let's explore
-          your inner balance!
+          In celebration of International Yoga Day on June 21st, let&apos;s
+          explore your inner balance!
         </p>
         <Link href="/quiz">
           <Button size="lg">Start the Quiz</Button>
